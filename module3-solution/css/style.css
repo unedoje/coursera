@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #E5E5E5;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+#header-nav{
+	background-color: #949494;
+}
+#ourMenu{
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+#chickenSection{
+	border:2px solid black;
+	background-color: #ffffff;
+	margin-top: 20px;
+}
+
+#chickenSection p{
+	padding: 10px;
+	margin-top: 20px;
+}
+#chickenSection h2{
+	margin-top: 15px;
+
+}
+
+.nav-item a{
+	text-align: center;
+}
